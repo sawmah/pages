@@ -1,0 +1,22 @@
+baseurl = "http://localhost"
+languageCode = "ru"
+title = "matted notes"
+disqusShortname = "mattednotes"
+publishdir = "target"
+
+
+[params]
+subtitle = "About it, software and so on"
+facebook = "https://facebook.com/msakhnov"
+twitter = "https://twitter.com/soider"
+github = "https://github.com/soider"
+showsRSS = true
+profile = "/logo.png"
+copyright = "msakhnov"
+#analytics = "UA-XXXXXXXX-X"
+#shareThis = "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"# config.toml
+# https://github.com/CrimsonRay/slender
+
+feedTitle = "Лента"
+
+
