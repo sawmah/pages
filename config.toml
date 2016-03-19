@@ -13,10 +13,8 @@ github = "https://github.com/soider"
 showsRSS = true
 profile = "/logo.png"
 copyright = "msakhnov"
-#analytics = "UA-XXXXXXXX-X"
-#shareThis = "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"# config.toml
+# analytics = "UA-XXXXXXXX-X"
+# shareThis = "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"# config.toml
 # https://github.com/CrimsonRay/slender
-
 feedTitle = "Лента"
-
 
