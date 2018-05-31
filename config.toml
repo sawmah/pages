@@ -1,4 +1,4 @@
-baseurl = "http://soider.github.io/"
+baseurl = "/"
 languageCode = "ru"
 title = "matted notes"
 disqusShortname = "soider"

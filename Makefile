@@ -16,7 +16,7 @@ push:
 	git push origin master
 
 publish: clean generate push
-	cd target && git init &&  git add . && git commit -m "Publication" && git remote add origin "git@github.com:soider/soider.github.io.git" && git push -f origin master
+	cd target && git init &&  git add . && git commit -m "Publication" && git remote add origin "https://soider@github.com/soider/soider.github.io.git" && git push -f origin master
 
 
 .PHONY: generate
